@@ -1,32 +1,21 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Build output
+/bin/
 *.obj
+*.pdb
+*.ilk
+*.exp
 
-# Precompiled Headers
-*.gch
-*.pch
+# Runtime data written next to the executable
+configs/
+/scripts/
+bin/scripts/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Legacy loader prototype, not part of the Astral-Remake release
+/src/
+/build.bat
+/assets/fonts/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Editors
+.vs/
+.vscode/
+*.user
