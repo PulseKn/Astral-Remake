@@ -2,7 +2,7 @@
 
 # Astral-Remake
 
-**A pixel-faithful Dear ImGui recreation of the Astral menu, made by [kdt255](https://github.com/kdt255).**
+**A pixel-faithful Dear ImGui recreation of the Astral menu, made by [kdt255](https://github.com/PulseKn).**
 
 > **This project is free.** If you paid for it, you got scammed: ask for your money back and report the seller.<br>
 
